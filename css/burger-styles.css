@@ -108,6 +108,12 @@ header {
   justify-content: space-between;
 }
 
+.ig-link {
+  color: #333333;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .info-grid {
   display: grid;
   grid-template-columns: 40px auto;
